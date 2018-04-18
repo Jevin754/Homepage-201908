@@ -48,7 +48,8 @@ img.img_overview{
 	width: 35%;
 	border: 2px solid #C8C8C8; 
 	border-radius: 8px; 
-	margin-right: 30px
+	margin-right: 30px;
+	margin-bottom: 5px
 }
 p{
 	font-family: Georgia, serif;
