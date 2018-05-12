@@ -1,4 +1,4 @@
-@inproceedings{wang2017deep,
+@inproceedings{pu2018dilated,
   title={Dilated Convolutional Network with Iterative Optimization for Coutinuous Sign Language Recognition},
   author={Pu, Junfu and Zhou, Wengang and Li, Houqiang},
   booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
